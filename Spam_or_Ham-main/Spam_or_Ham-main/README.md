@@ -29,9 +29,5 @@ Once the data is preprocessed, it is split into training and testing sets. The l
 
 After training the model, it is evaluated using the testing set. The accuracy of the model is calculated to assess its performance in distinguishing between spam and ham emails. Additionally, other evaluation metrics such as precision, recall, and F1-score can be computed to provide a comprehensive understanding of the model's performance.
 
-## Usage
 
-To use the logistic regression model for spam detection, follow these steps:
-
-1. Clone the repository:
 
