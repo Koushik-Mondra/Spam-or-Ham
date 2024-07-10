@@ -6,7 +6,7 @@ library(tm)
 library(caret)
 
 # Step 1: Read the dataset
-data <- read.csv("C://Users//Akhil//Desktop//catalog//spam.csv", encoding = "ISO-8859-1")
+data <- read.csv("C://Users//Koushik//Desktop//catalog//spam.csv", encoding = "ISO-8859-1")
 
 # Keep only the relevant columns
 data <- data[, c("v1", "v2")]
